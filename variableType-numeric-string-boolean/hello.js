@@ -1,1 +1,2 @@
-var price = 5;
+var bananaPrice = 5;
+console.log(bananaPrice);
