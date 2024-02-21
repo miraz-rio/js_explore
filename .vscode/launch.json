@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://F:\\Projects-WD\\js_explore",
+      "request": "launch",
+      "url": "http://F:\\Projects-WD\\js_explore"
+    }
+  ]
+}
