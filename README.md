@@ -1,1 +1,1 @@
-# js_practics
+# js_explore
