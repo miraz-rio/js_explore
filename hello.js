@@ -46,12 +46,19 @@ console.log(num1);
 var number = -5;
 var absoluteNumber = Math.abs(number);
 console.log(absoluteNumber);
+
 number = 5.64442;
 var number = Math.round(number);
 console.log(number);
+
 number = 5.44442;
 var number = Math.ceil(number);
 console.log(number);
+
 number = 5.44442;
+var number = Math.floor(number);
+console.log(number);
+
+number = Math.random()*100;
 var number = Math.floor(number);
 console.log(number);
